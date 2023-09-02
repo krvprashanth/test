@@ -34,8 +34,18 @@ theme = "hugo-initio"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "blog"
+    name = "Discovery"
     url = "/post/"
+    weight = 10
+    
+[[menu.main]]
+    name = "Discount"
+    url = "/discount/"
+    weight = 10
+    
+[[menu.main]]
+    name = "TLME"
+    url = "/tlme/"
     weight = 10
 
 [params.disqus]

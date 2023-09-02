@@ -29,11 +29,17 @@ After discussing with initial user group, engineering team and reports from inte
     
 **Step 2 - Quantity the benefits**
 
-They have conducted the exploratory focus group discussion to understand how much people are willing to pay for silent fan and app based control. Based on the inputs received they are quantifying the benefits –
+They have conducted the exploratory focus group discussion to understand how much people are willing to pay for silent fan and app based control. Based on the inputs received they are quantifying the benefits.
+
+![Image 1](../images/image1.jpeg)
 
 **Step 3. Visual representation of the quantified benefits**
 
 Total value generated because of two additional features is close to 20 thousand rupees. To quantity the benefits, marketing team needs to discuss with the product users and get into details of the benefits. Your users will let you lot about the benefits sometime those use cases are not even considered by the product team. More the number of discussion, the more would be the accuracy of the quantified benefit. 
+
+![Image 2](../images/image2.jpeg)
+
+
 
 
 **Step 4 – Decide on the pricing**
