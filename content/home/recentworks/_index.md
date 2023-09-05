@@ -1,7 +1,7 @@
 +++
-title = "Recent works"
+title = "Discount"
 type = "recentwork"
-file = "data.json"
 weight = 2
 +++
+
 

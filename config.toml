@@ -19,34 +19,34 @@ theme = "hugo-initio"
     author = "Sergey Pozhilov (GetTemplate.com)"
 
     showSubheader = true
-    showServices = false
-    showRecentWorks = false
-    showDownloads = false
+    showServices = true
+    showRecentWorks = true
+    showDownloads = true
     showClients = false
 
     showFooterContact = true
     showFooterFollowMe = true
-    showFooterTextWidget = false
+    showFooterTextWidget = true
     showFooterFormWidget = false
 
 [[menu.main]]
-    name = "home"
+    name = "Blog"
     url = "/"
     weight = 1
-[[menu.main]]
-    name = "Discovery"
-    url = "/post/"
-    weight = 10
+#[[menu.main]]
+#    name = "Discovery"
+#    url = "/post/"
+#    weight = 10
     
-[[menu.main]]
-    name = "Discount"
-    url = "/discount/"
-    weight = 10
+#[[menu.main]]
+#    name = "Discount"
+#    url = "/discount/"
+#    weight = 10
     
-[[menu.main]]
-    name = "TLME"
-    url = "/tlme/"
-    weight = 10
+#[[menu.main]]
+#    name = "TLME"
+#    url = "/tlme/"
+#    weight = 10
 
 [params.disqus]
     site = "hugo-initio-site.disqus.com"
