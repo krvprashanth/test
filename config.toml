@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://krvprashanth.github.io/test/"
 languageCode = "en"
 title = "Initio - Free, multipurpose html5 template by GetTemplate"
 theme = "hugo-initio"
